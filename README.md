@@ -1,2 +1,2 @@
 # Numerical-Linear-Algebra
-Factorization, Eigenvalues and ODE's
+Factorization, Eigenvalues and PDE's
