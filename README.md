@@ -67,5 +67,3 @@ Contributions are welcome! If you would like to improve the notebooks or add new
 This project is licensed under the Apache-2.0 License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-This README file now includes detailed and specific content related to your Numerical Linear Algebra project. Feel free to add or adjust any sections to better fit your needs.
