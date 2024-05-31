@@ -1,6 +1,3 @@
-To improve the README file for your repository, we will use the content structure from your Jupyter notebook and ensure it's comprehensive and well-organized. Here’s a detailed and fitting README draft:
-
----
 
 # Numerical Linear Algebra
 
